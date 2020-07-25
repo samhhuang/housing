@@ -1,1 +1,1 @@
-### Welcom! Here I demostrate my group project titled "House price prediction" submitted for the MBA course "Data Bootcamp" at NYU Stern. Feel free to contact me at hh2410@nyu.edu if you have any idea or question to share. Enjoy!
+### Welcom! Here I demostrate my group project titled "Where are the housing bubbles in the United States?" submitted for the MBA course "Data Bootcamp" at NYU Stern. Feel free to contact me at hh2410@nyu.edu if you have any question or idea to share. Enjoy! 
